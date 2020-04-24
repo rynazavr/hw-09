@@ -90,9 +90,7 @@ header {
 .button-nav:focus {
   color: rgb(255, 78, 80);
 }
-/*.header-sub-wrapper {
-  padding-bottom: 138px;
-}*/
+
 .menu-buttons {
   padding-bottom: 97px;
   display: flex;
@@ -216,7 +214,6 @@ header {
   color: rgb(51, 51, 51);
   font-weight: 700;
   line-height: 1.2;
-  /*text-align: center;*/
   margin-bottom: 18px;
 }
 .partner-description {
@@ -256,7 +253,7 @@ header {
     margin-bottom: 28px;
   }
 
-  .header__btn-wrapper {
+  .header-btn-wrapper {
     margin-bottom: 30px;
   }
 }
@@ -265,7 +262,7 @@ header {
     background-image: url(../img/back_tab.jpg);
     background-size: cover;
   }
-  .header__btn-wrapper {
+  .header-btn-wrapper {
     margin-bottom: 145px;
   }
 
@@ -288,9 +285,7 @@ header {
   .menu-buttons {
     padding-bottom: 0px;
   }
-  .header-sub-wrapper {
-    padding-top: 150px;
-  }
+
   .bannertext-1 {
     margin-bottom: 40px;
     font-size: 52px;
@@ -302,9 +297,7 @@ header {
   .red-btn {
     width: 226px;
   }
-  .header-sub-wrapper {
-    padding-bottom: 230px;
-  }
+
   .partners-list {
     margin-bottom: 34px;
   }
@@ -320,17 +313,7 @@ header {
     background-image: url(../img/back_desk.jpg);
     background-size: cover;
   }
-  .partners-list {
-    display: flex;
-    justify-content: space-between;
-  }
-  .partners-list {
-    margin-bottom: 40px;
-  }
-  .header-sub-wrapper {
-    padding-top: 110px;
-    padding-bottom: 232px;
-  }
+
   .bannertext-1 {
     margin-bottom: 36px;
   }
