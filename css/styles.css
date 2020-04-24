@@ -67,11 +67,9 @@ header {
   color: #ffffff;
   font-weight: 700;
 }
-/*.lb-wrapper {
-  display: block;
-  text-align: center;
-  padding-top: 20px;
-}*/
+.header__top-content {
+  margin-bottom: 36px;
+}
 .button-nav {
   border: none;
   color: #ffffff;
@@ -118,6 +116,7 @@ header {
   line-height: 1.2;
   text-align: center;
   margin-bottom: 16px;
+  margin-top: 0px;
 }
 .bannertext1-span {
   display: block;
@@ -256,9 +255,7 @@ header {
   .partner-item:not(:last-child) {
     margin-bottom: 28px;
   }
-  .logo {
-    margin-bottom: 36px;
-  }
+
   .header__btn-wrapper {
     margin-bottom: 30px;
   }
@@ -268,6 +265,10 @@ header {
     background-image: url(../img/back_tab.jpg);
     background-size: cover;
   }
+  .header__btn-wrapper {
+    margin-bottom: 145px;
+  }
+
   .bannertext2-span {
     display: inline;
   }
