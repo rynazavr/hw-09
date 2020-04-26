@@ -270,18 +270,6 @@ header {
     display: inline;
   }
 
-  .partner1 {
-    order: 1;
-  }
-  .partner3 {
-    order: 2;
-  }
-  .partner2 {
-    order: 3;
-  }
-  .partner4 {
-    order: 4;
-  }
   .menu-buttons {
     padding-bottom: 0px;
   }
